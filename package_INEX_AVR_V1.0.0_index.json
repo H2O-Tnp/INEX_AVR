@@ -56,11 +56,6 @@
               "name": "avrdude",
               "version": "6.3.0-arduino17"
             },
-            // {
-            //   "packager": "arduino",
-            //   "name": "avr",
-            //   "version": "6.3.0-arduino17"
-            // },
             {
               "packager": "arduino",
               "name": "arduinoOTA",
