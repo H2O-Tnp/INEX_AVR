@@ -14,8 +14,8 @@
           "category": "Arduino",
           "url": "https://github.com/H2O-Tnp/INEX_AVR/releases/download/beta/INEX_AVR.zip",
           "archiveFileName": "INEX_AVR.zip",
-          "checksum": "SHA-256:030949b2285e47719d05a2449ff9f6e94e361efb26d3264a75074f9599717ab7",
-          "size": "16757339",
+          "checksum": "SHA-256:914a55b96d21a7b00ea9d4b395a0d4a4bfde9b483e7bd3b0951220a38a38dc7c",
+          "size": "20663863",
           "boards": [
             {
               "name": "ATX-2"
