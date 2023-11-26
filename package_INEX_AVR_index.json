@@ -7,7 +7,7 @@
       "email": "tanapatpanakorn@gmail.com",
       "platforms": [
         {
-          "name": "Arduino AVR Boards",
+          "name": "INEX Arduino AVR Boards",
           "architecture": "avr",
           "version": "1.8.4",
           "deprecated": false,
