@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/H2O-Tnp/INEX_AVR/master/package_INEX_AVR_index
 
 I just found the official repo T-T
 https://github.com/INEXdev/ArduinoAVR
+but my repo will always update ;)
