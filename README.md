@@ -1,5 +1,8 @@
 # INEX_AVR
 
+USB driver
+https://ftdichip.com/drivers/vcp-drivers/
+
 custom board package for INEX avr boards e.g. ATX2 IPST-SE POPX2 etc.
 
 copy this to Arduino IDE
