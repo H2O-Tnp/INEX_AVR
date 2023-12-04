@@ -17,8 +17,8 @@
           "category": "Contributed",
           "url": "https://github.com/H2O-Tnp/INEX_AVR/releases/download/beta/INEX_AVR.zip",
           "archiveFileName": "INEX_AVR.zip",
-          "checksum": "SHA-256:8d9b37d46fc63f9b67e9b28941be7197414e01ec7abf955c05e85476e5021563",
-          "size": "53398390",
+          "checksum": "SHA-256:ecaf3b5ffd5339a25b5c3e9fa0c5f4f2c43e0c8733cb057f4bbf817db9459540",
+          "size": "53986370",
           "boards": [
             {"name": "ATX-2"},
             {"name": "POP-X2"},
